@@ -1,0 +1,13 @@
+div {
+    border: 1px solid white;
+    border-radius: 12px;
+    padding: 0.5em 0.5em 0.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cadetblue;
+    display: inline-block;
+}
+
+div input {
+    border-radius: 6px;
+
+}
